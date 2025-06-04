@@ -36,8 +36,7 @@ This project uses gaze detection to control motor movement. It detects eye direc
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/eye-controlled-motor.git
-    cd eye-controlled-motor
+    git clone https://github.com/vaibhavm2344/eye-controlled-wheelchair.git
     ```
 
 2. Install dependencies:
