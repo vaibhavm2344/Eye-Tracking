@@ -1,4 +1,4 @@
-# Eye-Controlled Motor Movement Using Gaze Tracking
+# Eye-Controlled Wheel Chair Movement Using Gaze Tracking
 
 This project uses gaze detection to control motor movement. It detects eye directions (left, right, center) and blinking using the webcam, and then sends signals to an Arduino board to control a motor accordingly.
 
