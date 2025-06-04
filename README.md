@@ -25,13 +25,6 @@ This project uses gaze detection to control motor movement. It detects eye direc
 - Jumper wires
 - Webcam
 
-## 🗂️ Project Structure
-
-- `main.py` — Captures webcam feed, uses gaze tracking, and controls motors
-- `controller.py` — Handles communication with Arduino
-- `pupil.py` — Internal logic for pupil/iris detection
-- `requirements.txt` — Python dependencies
-
 ## ▶️ How to Run
 
 1. Clone the repository:
@@ -57,5 +50,4 @@ This project uses gaze detection to control motor movement. It detects eye direc
 
 - Update the `port` in `controller.py` to match your Arduino's COM port (e.g., `'COM8'`)
 - Make sure your webcam is working
-- You must install the [GazeTracking](https://github.com/antoinelame/GazeTracking) library
 
